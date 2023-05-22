@@ -67,8 +67,8 @@ body{
     font-family: 'Noto Sans JP', sans-serif;
 }
 .fadein{
-    opacity:0px;
-    transform: translateX(20px);
+    opacity: 0;
+    transform: translateY(20px);
     transition: all 1s;
 }
 #bg-fixed{
@@ -90,7 +90,7 @@ body{
     padding: 50px;
 }
 .slide-img {
-    width: 30%;
+    width: 40%;
 }
 .slide-box{
     padding-left: 30px;
